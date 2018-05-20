@@ -1,6 +1,6 @@
 #view creates a new schema based on the condition
 #view is additional feature on hive 
-CREATE VIEW topMovieIDs AS
+CREATE VIEW IF NOT EXISTS topMovieIDs AS
 SELECT movieID, count(movieID) as ratingCount
 FROM ratings 
 GROUP BY movieID
