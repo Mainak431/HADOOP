@@ -1,0 +1,9 @@
+#view creates a new schema based on the condition
+#view is additional feature on hive 
+CREATE VIEW topMovieIDs AS
+SELECT movieID, count(movieID) as ratingCount
+FROM ratings 
+GROUP BY movieID
+ORDER BY ratingCount DESC;
+
+SELECT n.title,ratingCount FROM topMovieIDs t JOIN names n ON t.movieID = n.movieID;
