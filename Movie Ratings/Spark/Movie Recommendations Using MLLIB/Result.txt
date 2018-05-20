@@ -1,0 +1,26 @@
+Ratings for user ID 0:
+Star Wars (1977) 5.0
+Empire Strikes Back, The (1980) 5.0
+Gone with the Wind (1939) 1.0
+
+Top 20 recommendations:
+(u'Wrong Trousers, The (1993)', 5.749821662902832)
+(u'Fifth Element, The (1997)', 5.2325282096862793)
+(u'Close Shave, A (1995)', 5.0506253242492676)
+(u'Monty Python and the Holy Grail (1974)', 4.9965953826904297)
+(u'Star Wars (1977)', 4.9895496368408203)
+(u'Army of Darkness (1993)', 4.980320930480957)
+(u'Empire Strikes Back, The (1980)', 4.9729299545288086)
+(u'Princess Bride, The (1987)', 4.9577054977416992)
+(u'Blade Runner (1982)', 4.9106745719909668)
+(u'Return of the Jedi (1983)', 4.7780814170837402)
+(u'Rumble in the Bronx (1995)', 4.6917591094970703)
+(u'Raiders of the Lost Ark (1981)', 4.6367182731628418)
+(u"Jackie Chan's First Strike (1996)", 4.632108211517334)
+(u'Twelve Monkeys (1995)', 4.6148405075073242)
+(u'Spawn (1997)', 4.5741710662841797)
+(u'Terminator, The (1984)', 4.5611510276794434)
+(u'Alien (1979)', 4.5415172576904297)
+(u'Terminator 2: Judgment Day (1991)', 4.529487133026123)
+(u'Usual Suspects, The (1995)', 4.5179119110107422)
+(u'Mystery Science Theater 3000: The Movie (1996)', 4.5095906257629395)
