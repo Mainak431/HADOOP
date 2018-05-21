@@ -1,0 +1,4 @@
+ spark-submit --packages org.mongodb.spark:mongo-spark-connector_2.11:2.0.0 MongoSpark.py
+
+
+#2.11 is the scala version and 2.0.0 is the spark version. 
