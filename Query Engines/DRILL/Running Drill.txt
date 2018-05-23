@@ -1,0 +1,7 @@
+bin/drillbit.sh start -Drill.exec.http.port=8765
+
+after downloading and going to the extracted folder
+
+Drill can extract data using sql command and also it can run any database mysql, hive,hbade,mongodb,json,hdfs file. 
+
+Only cassandra support is not there for drill. 

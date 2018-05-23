@@ -1,0 +1,1 @@
+SELECT u.occupation,COUNT(*) FROM hive.movielens.ratings r JOIN mongo.movielens.users u ON r.user_id = u.user_id GROUP BY u.occupation;
